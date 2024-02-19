@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
+ * main - Entry point
  *
- *print 
- *
- *use puts for the first time 
- *
+ * Return: Always 0 (Success)
  */
 int main (void)
 {
