@@ -3,11 +3,11 @@
 /**
  * _isalpha - Check Holberton
  * @c: An input character
- * Description: function returns 1 if the character is a
+ * Description: function returns 1 if the character is r
  * letter, lowercase or uppercase.
  * Return: 1 or 0 in otherwise.
  */
-int _isalpha(int r)
+int _isalpha(int c)
 {
 if (r >= 'A' && r <= 'Z')
 return (1);
